@@ -14,6 +14,8 @@ Will include some alaysis values and the raw data used to make the simulation, f
 
 ## GUI
 Simple desktop GUI made for user data entry
+![image](https://user-images.githubusercontent.com/55203981/212104468-e58b7efe-9265-4108-8d82-b63138711079.png)
+
 
 ## Tools
 Made with: Python, yfinance, NumPy, Matplotlib, customTkinter
