@@ -12,5 +12,8 @@ Chart will be produced in a simialr fashion as below: ![img](https://user-images
 ## Spreadsheet
 Will include some alaysis values and the raw data used to make the simulation, formatted in a CSV file.
 
-## Next Up
-Will implement a front end user GUI.
+## GUI
+Simple desktop GUI made for user data entry
+
+## Tools
+Made with: Python, yfinance, NumPy, Matplotlib, customTkinter
