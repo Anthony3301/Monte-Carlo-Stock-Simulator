@@ -142,6 +142,3 @@ with open(cvsName, "w", newline='') as stock_data:
         curr_data = np.concatenate(([int(i)], simulatedPricesTotal[i]))
         writer_main.writerow(curr_data)
      
-
-
-
