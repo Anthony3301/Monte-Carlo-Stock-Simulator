@@ -4,6 +4,8 @@ from PIL import Image, ImageTk
 from stock_checker import check_stock
 import time
 
+from main import run_main
+
 ck.set_appearance_mode("Dark")
 ck.set_default_color_theme("dark-blue")
 
@@ -33,6 +35,7 @@ def run_simulation():
                                    text_color="green")
         successLabel.pack(pady=12, padx=10)
         prevMessage = successLabel
+        run_main(currSym, currIter)
     else:
         print("incorrect")
         failLabel = ck.CTkLabel(master=frame,
