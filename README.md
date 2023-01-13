@@ -2,7 +2,7 @@
 Project By Anthony Pirvuti
 
 ## HOW TO USE
-Run main.py, enter any NASDAQ ticker stock symbol and amount of iterations for the simulation to run (>= 2)
+Run app.py, enter any NASDAQ ticker stock symbol and amount of iterations for the simulation to run (>= 2)
 in the "plots" and "spreadsheets" folders, a graph and CSV file of data will be added with exact timestamp of creation.
 
 ## Chart
