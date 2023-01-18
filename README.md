@@ -6,7 +6,7 @@ Run app.py, enter any NASDAQ ticker stock symbol and amount of iterations for th
 in the "plots" and "spreadsheets" folders, a graph and CSV file of data will be added with exact timestamp of creation.
 
 ## Chart
-Chart will be produced in a simialr fashion as below: ![img](https://user-images.githubusercontent.com/55203981/211952218-85518f86-5875-48f9-9eb4-f48fb55c837a.png)  
+Chart will be produced in a similar fashion as below: ![img](https://user-images.githubusercontent.com/55203981/211952218-85518f86-5875-48f9-9eb4-f48fb55c837a.png)  
 *note: TSLA, Date, and specific values are are all sample values*
 
 ## Spreadsheet
